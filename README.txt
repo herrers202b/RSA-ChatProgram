@@ -1,8 +1,6 @@
-# RSA_Chat_Program
-
 # Names: Chris Rose and Saira Herrera
 # Course: CIS 475 Intro to Cryptography
-# Assignment: RSA chat Program
+# Assignment: RSA Chat Program
 # Due: May 14, 2021
 
 Included Files: RSAServer.py, RSAClient.py
