@@ -28,7 +28,7 @@ These key is encrypted and sent to Client, Client then decrypts this key using p
 
 > python3 RSAServer.py 
 
-3. No on the other terminal run the following command:
+3. Now on the other terminal run the following command:
 
 > python3 RSAClient.py
 
